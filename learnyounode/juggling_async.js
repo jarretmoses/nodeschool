@@ -16,7 +16,7 @@ function getUrl(index){
 
 function printResult(){
   responses.forEach(function(data){
-    console.log(data);
+   console.log(data);
   });
 }
 
